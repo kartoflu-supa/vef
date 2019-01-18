@@ -19,4 +19,7 @@
     Hvað er útgáfustýring (Version Control)?
 	er hvernig git nær að við hald alla uplýsinga sýna með því að nota Version control.
 
+    Hverjir eru helstu kostir við að nota GIT?
+	að geta séð breytingarnar og betur stjórn á github	
+
     
