@@ -25,4 +25,9 @@
     Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 	í hvert skipt maður ýttir á save
 
+    Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+	Working directory er hvaða directory þú ert að vinna út úr.
+	Staging area er frá hvað ég skil hvað breytingu ertu að vinna á.
     
+
+   
