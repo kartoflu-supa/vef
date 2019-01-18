@@ -22,4 +22,7 @@
     Hverjir eru helstu kostir við að nota GIT?
 	að geta séð breytingarnar og betur stjórn á github	
 
+    Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+	í hvert skipt maður ýttir á save
+
     
