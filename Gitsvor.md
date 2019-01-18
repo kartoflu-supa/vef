@@ -16,4 +16,7 @@
         git checkout leifir þig að skipta branch. svo þú getur stjórnað git branch létari og stýrt því í rétta átt
         git branch leyfir þig að breyta og búa till þín eigin branch. með git branch gætir þú búa, eyða og breytt branch og með því path
 
+    Hvað er útgáfustýring (Version Control)?
+	er hvernig git nær að við hald alla uplýsinga sýna með því að nota Version control.
+
     
